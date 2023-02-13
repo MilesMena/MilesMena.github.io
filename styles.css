@@ -1,5 +1,5 @@
 .img-bakground {
-    background-image: url('../images/brainard_lake_ward.jpg'); 
+    background-image: url('brainard_lake_ward.jpg'); 
     background-size: cover; 
     height:800px; 
     padding-top:100px;
@@ -45,7 +45,7 @@
 
   /* Large profile image */
 .large-profile {
-    background: url("../images/me_at_bluetsem.jpg");
+    background: url("me_at_bluetsem.jpg");
     background-size: cover;
     background-position: center;
   }
