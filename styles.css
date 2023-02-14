@@ -35,10 +35,10 @@
     padding: 10px;
     padding-left:10px;
     padding-right: 70px;
-    height: 475px;
+    height: 600px;
     margin:30px;
     margin-right:30px;
-    margin-bottom: 70px;
+    margin-bottom: 0px;
     background-color:  #b69856;
     line-height:2;
   }
@@ -54,10 +54,6 @@
 .about-me-paragraph {
   font-size: 20px;
 }
-
-  
-  
-  
 
 .header-text-left {
   font-size:25px;
@@ -118,9 +114,6 @@ a.menu:hover {
 .sticky + .content {
   padding-top: 102px;
 }
-
-
-
 
 /* Navbar container */
 .navbar {
@@ -204,3 +197,5 @@ a.menu:hover {
 #demo {
   animation: morph 120s infinite;
 }
+
+
